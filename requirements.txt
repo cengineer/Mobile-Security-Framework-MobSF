@@ -5,3 +5,5 @@ androguard==3.1.0
 lxml==4.2.0
 rsa==3.4.2
 git+https://github.com/MobSF/CapFuzz.git
+ipython>=7.16.3 # not directly required, pinned by Snyk to avoid a vulnerability
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
